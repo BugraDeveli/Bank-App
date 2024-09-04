@@ -1,6 +1,8 @@
 import logModule as log
 import moneyIslem as mon
 from getpass import getpass
+with open("accounts.txt","a", encoding='utf-8') as f:
+    pass
 x=0
 while x<1:
     textAccount = f"""
